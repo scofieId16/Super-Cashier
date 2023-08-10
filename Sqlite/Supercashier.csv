@@ -1,0 +1,5 @@
+new_id_transaksi,tanggal_transaksi,nama_pelanggan,nama_item,jumlah_item,harga,total_harga,diskon,harga_diskon
+80370706_01,10/8/2023 22:53,Ahmad faisal fahmi,Ayam goreng,2,20000,40000,0.05,38000
+80370706_02,10/8/2023 22:53,Ahmad faisal fahmi,Pasta gigi,3,15000,45000,0.05,42750
+80370706_03,10/8/2023 22:53,Ahmad faisal fahmi,Mainan mobil,1,200000,200000,0.05,190000
+80370706_04,10/8/2023 22:53,Ahmad faisal fahmi,Mi instan,5,3000,15000,0.05,14250
