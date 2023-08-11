@@ -22,7 +22,7 @@ Untuk bisa mencapai tujuan tersebut, terdapat beberapa requirements yang harus t
 
 ## 3. **Flowchart**
 Bagian ini menjelaskan mengenai diagram alur untuk membuat sistem kasir self service atau dikenal dengan **Super Cashier**.
-Flowchart terdiri dari beberapa sub-flowchart yaitu menu utama, tambah barang, perbarui nama barang, perbarui harga barang, perbarui jumlah barang, hapus barang, hapus semua barang di keranjang, tampilkan keranjang, dan pembayaran
+Flowchart terdiri dari beberapa sub-flowchart yaitu menu utama, tambah barang, perbarui nama barang, perbarui harga barang, perbarui jumlah barang, hapus barang, hapus semua barang di keranjang, tampilkan keranjang, dan total belanja
 
 ### Flowchart Main Menu 
 ![Main Menu Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Mainmenu.drawio.png)
