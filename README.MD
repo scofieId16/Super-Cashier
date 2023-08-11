@@ -260,9 +260,9 @@ Dengan kondisional sebagai berikut.
 
 Kemudian customer akan menginput uang yang disetor.
 
--Jika jumlah uang yang disetor kurang dari total harga belanja maka akan menampilkan pesan "Jumlah uang yang Anda masukkan kurang"
--Jika jumlah uang yang disetor sama dengan total harga belanja maka akan menampilkan pesan "Anda membayar dengan uang pas"
--Jika jumlah uang yang disetor lebih dari total harga belanja maka akan menampilkan pesan "Uang kembalian: Rp. "
+            a. Jika jumlah uang yang disetor kurang dari total harga belanja maka akan menampilkan pesan "Jumlah uang yang Anda masukkan kurang"
+            b. Jika jumlah uang yang disetor sama dengan total harga belanja maka akan menampilkan pesan "Anda membayar dengan uang pas"
+            c. Jika jumlah uang yang disetor lebih dari total harga belanja maka akan menampilkan pesan "Uang kembalian: Rp. "
 
 ## 5. **TEST CASE SUPER CASHIER**
 
