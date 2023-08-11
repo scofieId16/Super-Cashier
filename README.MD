@@ -252,12 +252,14 @@ def total_belanja(self):
 Fungsi ini adalah untuk menampilkan total belanja yang dibeli. 
 
 Dengan kondisional sebagai berikut. 
+
             a. Jika total belanja di atas Rp 200.000 akan mendapatkan diskon 5%
             b. Jika total belanja di atas Rp 300.000 akan mendapatkan diskon 8%
             c. Jika total belanja di atas Rp 500.000 akan mendapatkan dikon 10%
             d. Jika di bawah Rp 200.000 maka akan langsung menampilkan total harga belanja
 
 Kemudian customer akan menginput uang yang disetor.
+
 -Jika jumlah uang yang disetor kurang dari total harga belanja maka akan menampilkan pesan "Jumlah uang yang Anda masukkan kurang"
 -Jika jumlah uang yang disetor sama dengan total harga belanja maka akan menampilkan pesan "Anda membayar dengan uang pas"
 -Jika jumlah uang yang disetor lebih dari total harga belanja maka akan menampilkan pesan "Uang kembalian: Rp. "
