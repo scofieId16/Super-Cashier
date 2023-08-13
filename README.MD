@@ -25,31 +25,31 @@ Bagian ini menjelaskan mengenai diagram alur untuk membuat sistem kasir self ser
 Flowchart terdiri dari beberapa sub-flowchart yaitu menu utama, tambah barang, perbarui nama barang, perbarui harga barang, perbarui jumlah barang, hapus barang, hapus semua barang di keranjang, tampilkan keranjang, dan total belanja
 
 ### Flowchart Main Menu 
-![Main Menu Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Mainmenu.drawio.png)
+![Main Menu Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Mainmenu.png)
 
 ### Flowchart Add Item
-![Add Item Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Additem.drawio.png)
+![Add Item Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Additem.png)
 
 ### Flowchart Update Nama Item
-![Update Item Name Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Updateitem.drawio.png)
+![Update Item Name Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Updateitem.png)
 
 ### Flowchart Update Harga Item
-![Update Item Price Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Updateharga.drawio.png)
+![Update Item Price Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Updateharga.png)
 
 ### Flowchart Update Jumlah Item
-![Update Item Quantity Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Updatejumlah.drawio.png)
+![Update Item Quantity Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Updatejumlah.png)
 
 ### Flowchart Delete Item
-![Delete an Item Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Deleteitem.drawio.png)
+![Delete an Item Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Deleteitem.png)
 
 ### Flowchart Reset Transaksi
-![Delete All Items Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Resettransaksi.drawio.png)
+![Delete All Items Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Resettransaksi.png)
 
 ### Flowchart Cek Keranjang
-![Show Cart Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Cekkeranjang.drawio.png)
+![Show Cart Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Cekkeranjang.png)
 
 ### Flowchart Total Belanja
-![Calculate Total Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Totalbelanja.drawio.png)
+![Calculate Total Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Totalbelanja.png)
 
 
 ## 4. **Penjelasan Code**
