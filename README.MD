@@ -49,7 +49,7 @@ Flowchart terdiri dari beberapa sub-flowchart yaitu menu utama, tambah barang, p
 ![Show Cart Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Cekkeranjang.png)
 
 ### Flowchart Total Belanja
-![Calculate Total Flowchart](https://github.com/scofieId16/Super-Cashier/blob/a1661d9ecfb1e4acb65d0cab55eaf77fe7883a63/Flowchart/Totalbelanja.png)
+![Calculate Total Flowchart](https://github.com/scofieId16/Super-Cashier/blob/35b4a19b779727626fcf4371af910792031e6b88/Flowchart/Totalbelanja.png)
 
 
 ## 4. **Penjelasan Code**
