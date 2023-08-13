@@ -314,4 +314,4 @@ Berdasarkan requirements yang ada pada promblem case super cashier ini, seluruh 
 1. Menambahkan fitur membership atau loyalty dimana terdapat setiap level (blue,silver,gold,platinum etc) yang nantinya akan mendapatkan point setiap selesai melakukan transaksi. customer juga bisa menginput id member mereka saat ingin melakukan pembayaran.
 2. Menambahkan menu untuk melihat item dan stok yang tersedia di swalayan.
 3. Menggunakan Graphic User Interface agar tampilan lebih interaktif.
-4. Perbaikan lain mengenai apabila customer(user) menemukan kendala di kemudian hari.
+4. Melakukan Perbaikan dan update fitur apabila customer(user) menemukan kendala di kemudian hari.
