@@ -1,6 +1,6 @@
 # **Super Cashier Program**
 
-### **Ahmad Faisal Fahmi, Software dan Data Engineering Batch 3**
+### **Ahmad Faisal Fahmi, Software dan Data Engineering Pacmann Batch 3**
 
 ## 1. **Latar Belakang Masalah**
 
