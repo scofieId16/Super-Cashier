@@ -306,3 +306,12 @@ Kemudian customer akan menginput uang yang disetor.
 
   **Output :**  
   ![image](https://github.com/scofieId16/Super-Cashier/blob/2d9b4c351f52ec729e2ef7e0c27b4afb2950f947/Test%20Case/Testcase4.3.png)
+
+## 6. **CONCLUSION**
+
+Berdasarkan requirements yang ada pada promblem case super cashier ini, seluruh requiremetns dapat dijalankan sesuai dengan yang diharapkan. Hasil ini belum sepenuhnya sempurna dan masih banyak point-point pengembangan yang dapat dikembangkan kedepannya. Untuk itu beberapa perbaikan yang dapat dilakukan jika mempunyai waktu lebih dan SDM lebih diantaranya adalah :
+
+1. Menambahkan fitur membership atau loyalty dimana terdapat setiap level (blue,silver,gold,platinum etc) yang nantinya akan mendapatkan point setiap selesai melakukan transaksi. customer juga bisa menginput id member mereka saat ingin melakukan pembayaran.
+2. Menambahkan menu untuk melihat item dan stok yang tersedia di swalayan.
+3. Menggunakan Graphic User Interface agar tampilan lebih interaktif.
+4. Perbaikan lain mengenai apabila customer(user) menemukan kendala di kemudian hari.
