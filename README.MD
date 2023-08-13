@@ -22,7 +22,7 @@ Untuk bisa mencapai tujuan tersebut, terdapat beberapa requirements yang harus t
 
 ## 3. **Flowchart**
 Bagian ini menjelaskan mengenai diagram alur untuk membuat sistem kasir self service atau dikenal dengan **Super Cashier**.
-Flowchart terdiri dari beberapa sub-flowchart yaitu menu utama, tambah barang, perbarui nama barang, perbarui harga barang, perbarui jumlah barang, hapus barang, hapus semua barang di keranjang, tampilkan keranjang, dan pembayaran
+Flowchart terdiri dari beberapa sub-flowchart yaitu menu utama, tambah barang, perbarui nama barang, perbarui harga barang, perbarui jumlah barang, hapus barang, hapus semua barang di keranjang, tampilkan keranjang, dan total belanja
 
 ### Flowchart Main Menu 
 ![Main Menu Flowchart](https://github.com/scofieId16/Super-Cashier/blob/cab3c3aa2a713fd2f0bc7e9f4782af8fb6719056/Flowchart/Mainmenu.drawio.png)
@@ -252,15 +252,17 @@ def total_belanja(self):
 Fungsi ini adalah untuk menampilkan total belanja yang dibeli. 
 
 Dengan kondisional sebagai berikut. 
+
             a. Jika total belanja di atas Rp 200.000 akan mendapatkan diskon 5%
             b. Jika total belanja di atas Rp 300.000 akan mendapatkan diskon 8%
             c. Jika total belanja di atas Rp 500.000 akan mendapatkan dikon 10%
             d. Jika di bawah Rp 200.000 maka akan langsung menampilkan total harga belanja
 
 Kemudian customer akan menginput uang yang disetor.
--Jika jumlah uang yang disetor kurang dari total harga belanja maka akan menampilkan pesan "Jumlah uang yang Anda masukkan kurang"
--Jika jumlah uang yang disetor sama dengan total harga belanja maka akan menampilkan pesan "Anda membayar dengan uang pas"
--Jika jumlah uang yang disetor lebih dari total harga belanja maka akan menampilkan pesan "Uang kembalian: Rp. "
+
+            a. Jika jumlah uang yang disetor kurang dari total harga belanja maka akan menampilkan pesan "Jumlah uang yang Anda masukkan kurang"
+            b. Jika jumlah uang yang disetor sama dengan total harga belanja maka akan menampilkan pesan "Anda membayar dengan uang pas"
+            c. Jika jumlah uang yang disetor lebih dari total harga belanja maka akan menampilkan pesan "Uang kembalian: Rp. "
 
 ## 5. **TEST CASE SUPER CASHIER**
 
