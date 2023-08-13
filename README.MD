@@ -126,7 +126,7 @@ def update_item(self):
         print("Data yang Anda masukkan salah")     
 ```
 
-Fungsi ini adalah untuk melakukan update nama item jika terdapat kesalahan pada penginputan nama. Pembeli akan menginputkan nama item yang akan diubah, jika tidak ada dalam item maka akan dilakukan looping sampai nama item yang ada pada keranjang terpilih. Jika nama item benar, maka akan dilakukan perubahan nama item menjadi nama item yang baru, dan delete nama item yang lama.
+Fungsi ini adalah untuk melakukan update nama item jika terdapat kesalahan pada penginputan nama. Pembeli akan menginputkan nama item yang akan diubah, jika tidak ada dalam item maka akan dilakukan looping sampai nama item yang diinput ada pada keranjang terpilih. Jika nama item benar, maka akan dilakukan perubahan nama item menjadi nama item yang baru, dan delete nama item yang lama.
 
 #### update jumlah item
 ```python
@@ -150,7 +150,7 @@ def update_jumlah(self):
         print("Data yang Anda masukkan tidak sesuai")       
 ```
 
-Fungsi ini adalah untuk melakukan update jumlah item jika terdapat kesalahan pada penginputan jumlah. Pembeli akan menginputkan nama item yang akan diubah jumlahnya, jika tidak ada dalam keranjang maka akan dilakukan looping sampai nama item yang ada pada keranjang terpilih. Jika nama item benar, maka selanjutnya pembeli akan menginputkan jumlah item yang baru dan mengganti jumlah item yang lama.
+Fungsi ini adalah untuk melakukan update jumlah item jika terdapat kesalahan pada penginputan jumlah. Pembeli akan menginputkan nama item yang akan diubah jumlahnya, jika tidak ada dalam keranjang maka akan dilakukan looping sampai nama item yang diinput ada pada keranjang terpilih. Jika nama item benar, maka selanjutnya pembeli akan menginputkan jumlah item yang baru dan mengganti jumlah item yang lama.
 
 #### update harga item
 ```python
@@ -174,7 +174,7 @@ def update_harga(self):
         print("Data yang Anda masukkan tidak sesuai")       
 ```
 
-Fungsi ini adalah untuk melakukan update harga item jika terdapat kesalahan pada penginputan harga. Pembeli akan menginputkan nama item yang akan diubah harganya, jika tidak ada dalam keranjang maka akan dilakukan looping sampai nama item yang ada pada keranjang terpilih. Jika nama item benar, maka selanjutnya pembeli akan menginputkan harga item yang baru dan mengganti harga item yang lama.
+Fungsi ini adalah untuk melakukan update harga item jika terdapat kesalahan pada penginputan harga. Pembeli akan menginputkan nama item yang akan diubah harganya, jika tidak ada dalam keranjang maka akan dilakukan looping sampai nama item yang diinput ada pada keranjang terpilih. Jika nama item benar, maka selanjutnya pembeli akan menginputkan harga item yang baru dan mengganti harga item yang lama.
 
 #### delete item
 ```python
@@ -188,7 +188,7 @@ def delete_item(self):
         print(f"{nama_item} tidak ada dalam daftar")       
 ```
 
-Fungsi ini adalah untuk menghapus data salah satu item yang ada di keranjang. Pembeli akan menginputkan nama item yang akan hapus, jika tidak ada dalam keranjang maka akan dilakukan looping sampai nama item yang ada pada keranjang terpilih. Jika nama item benar, maka akan menghapus item tersebut  beserta jumlah dan harganya.
+Fungsi ini adalah untuk menghapus data salah satu item yang ada di keranjang. Pembeli akan menginputkan nama item yang akan hapus, jika tidak ada dalam keranjang maka akan dilakukan looping sampai nama item yang diinput ada pada keranjang terpilih. Jika nama item benar, maka akan menghapus item tersebut  beserta jumlah dan harganya.
 
 #### reset transaksi
 ```python
